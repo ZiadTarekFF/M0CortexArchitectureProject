@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun May 26 15:11:15 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : AHBLITE_SYS
+Top-level Entity Name : AHBLITE_SYS
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 5,672 / 6,272 ( 90 % )
+    Total combinational functions : 5,494 / 6,272 ( 88 % )
+    Dedicated logic registers : 1,367 / 6,272 ( 22 % )
+Total registers : 1367
+Total pins : 14 / 92 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 131,072 / 276,480 ( 47 % )
+Embedded Multiplier 9-bit elements : 6 / 30 ( 20 % )
+Total PLLs : 1 / 2 ( 50 % )

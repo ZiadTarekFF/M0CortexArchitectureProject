@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Sun May 26 15:19:39 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : AHBLITE_SYS
+Top-level Entity Name : AHBLITE_SYS
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Power Models : Final
+Total Thermal Power Dissipation : 68.86 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 49.35 mW
+I/O Thermal Power Dissipation : 19.51 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at _4byt_RAM.v(51): always construct contains both blocking and non-blocking assignments File: C:/Users/ziads/Downloads/New folder (4)/test/Quartus/AHBLITE_SYSTEM_restored/AHB_BRAM/_4byt_RAM.v Line: 51

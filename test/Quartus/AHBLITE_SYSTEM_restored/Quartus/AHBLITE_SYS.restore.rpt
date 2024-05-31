@@ -1,0 +1,95 @@
+Restore Archived Project report for AHBLITE_SYS
+Sun May 26 14:46:24 2024
+Quartus Prime Version 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Sun May 26 14:46:24 2024 ;
+; Revision Name                   ; AHBLITE_SYS                           ;
+; Top-level Entity Name           ; AHBLITE_SYS                           ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/ziads/Downloads/New folder (4)/test/Quartus/AHBLITE_SYSTEM.qar' into the 'C:/Users/ziads/Downloads/New folder (4)/test/Quartus/AHBLITE_SYSTEM_restored/' directory
+Info: Generated report 'AHBLITE_SYS.restore.rpt'
+Info (23030): Evaluation of Tcl script d:/qualite/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 22 warnings
+    Info: Peak virtual memory: 4835 megabytes
+    Info: Processing ended: Sun May 26 14:46:25 2024
+    Info: Elapsed time: 00:00:19
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------+
+; Files Restored ;
++----------------+
+; File Name      ;
++----------------+
+
+
++-----------------------------------+
+; Files Not Restored                ;
++-----------------------------------+
+; File Name                         ;
++-----------------------------------+
+; qar_info.json                     ;
+; AHBLITE_SYS.v                     ;
+; AHB_BRAM/AHB2MEM.v                ;
+; AHB_BRAM/_4byt_RAM.v              ;
+; AHB_BRAM/cmsdk_ahb_to_sram.v      ;
+; AHB_BRAM/code.hex                 ;
+; AHB_BUS/AHBDCD.v                  ;
+; AHB_BUS/AHBMUX.v                  ;
+; AHB_LED/AHB2LED.v                 ;
+; BUFG.v                            ;
+; CortexM0-DS/CORTEXM0INTEGRATION.v ;
+; CortexM0-DS/cortexm0ds_logic.v    ;
+; Quartus/AHBLITE_SYS.qpf           ;
+; Quartus/AHBLITE_SYS.qsf           ;
+; Quartus/PLL.ppf                   ;
+; Quartus/PLL.qip                   ;
+; Quartus/PLL.v                     ;
+; Quartus/PLL_bb.v                  ;
+; Quartus/PLL_inst.v                ;
+; Quartus/tb/AHBLITE_SYS_tb.v       ;
+; Quartus/assignment_defaults.qdf   ;
++-----------------------------------+
+
+

@@ -1,0 +1,4 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,CORTEXM0INTEGRATION:u_CORTEXM0INTEGRATION|cortexm0ds_logic:u_logic|lpm_mult:Mult0|mult_7dt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,CORTEXM0INTEGRATION:u_CORTEXM0INTEGRATION|cortexm0ds_logic:u_logic|lpm_mult:Mult0|mult_7dt:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,CORTEXM0INTEGRATION:u_CORTEXM0INTEGRATION|cortexm0ds_logic:u_logic|lpm_mult:Mult0|mult_7dt:auto_generated|mac_out6,
